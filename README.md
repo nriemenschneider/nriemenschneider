@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @nriemenschneider
 - 👀 I’m interested in Political Sciences and Data Science
+<!---
 - 🚂 I’m currently employed as Data Analyst at Deutsche Bahn Fernverkehr AG
+--->
 - 🌱 I’m currently learning R, Python, SQL, and LaTeX
 - 📫 How to reach me: LinkedIn
 
